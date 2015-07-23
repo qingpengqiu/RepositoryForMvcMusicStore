@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMusicStore", "MvcMusicStore\MvcMusicStore.csproj", "{4027AA94-B287-4FAE-97AA-54EADC8CEB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMusicStore.Tests", "MvcMusicStore.Tests\MvcMusicStore.Tests.csproj", "{A571D781-84F7-4A68-A174-A5669F498FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4027AA94-B287-4FAE-97AA-54EADC8CEB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4027AA94-B287-4FAE-97AA-54EADC8CEB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4027AA94-B287-4FAE-97AA-54EADC8CEB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4027AA94-B287-4FAE-97AA-54EADC8CEB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A571D781-84F7-4A68-A174-A5669F498FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A571D781-84F7-4A68-A174-A5669F498FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A571D781-84F7-4A68-A174-A5669F498FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A571D781-84F7-4A68-A174-A5669F498FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
